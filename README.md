@@ -4,6 +4,8 @@
 - Selectionsort
 - Insertionsort
 
+More algos to come... 
+
 ```
 How to use:
 
