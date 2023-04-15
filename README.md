@@ -22,7 +22,7 @@ for (int i = 0; i < numbers.Length; i++)
     numbers[i] = random.Next(1, 100);
 }
 
-Console.Write($"Unsorted numbers: ");
+Console.Write("Unsorted numbers: ");
 foreach (var number in numbers)
 {
     Console.Write(number + " ");
@@ -30,7 +30,7 @@ foreach (var number in numbers)
 
 Console.WriteLine();
 
-Console.Write($"Sorted numbers: ");
+Console.Write("Sorted numbers: ");
 Sort.BubbleSort(numbers);
 foreach (var number in numbers)
 {
