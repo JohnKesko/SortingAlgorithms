@@ -1,5 +1,9 @@
 #### A super tiny static class library for the most common sorting algorithms.
 
+- Bubblesort
+- Selectionsort
+- Insertionsort
+
 ```
 How to use:
 
